@@ -6,7 +6,6 @@ import './globals.css';
 import Footer from '@/app/home-components/Footer';
 import About from './about/page';
 import AnnouncementNotifier from '@/app/home-components/AlertNotificationWatcher';
-import UserCard from "./current-user/page"
 
 export default function UserMainLayout({ children }: { children: React.ReactNode }) {
   return (

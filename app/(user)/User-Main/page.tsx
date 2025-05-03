@@ -1,7 +1,6 @@
 'use client';
 
 import { useState } from 'react';
-import Link from "next/link";
 import { FaFileAlt, FaExclamationTriangle, FaBullhorn } from 'react-icons/fa';
 
 import UserCard from "./current-user/page";
